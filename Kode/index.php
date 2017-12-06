@@ -39,7 +39,7 @@
    <br> <input type="submit" value="Login">
 </form>
 <br><br><br>
-<h2>Sign in:</h2>
+<h2>Sign up:</h2>
 <form action="register.php" method="POST">
     Username: <br> <input type="text" name="username" required> <br>
     Password: <br> <input type="password" name="password" required> <br>
